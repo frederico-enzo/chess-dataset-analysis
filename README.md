@@ -1,7 +1,7 @@
 # Análise do Dataset de Xadrez
 
 ## Descrição
-Este projeto utiliza o [Lichess Database](https://database.lichess.org/) para analisar partidas de xadrez. O objetivo é realizar a limpeza de dados e calcular estatísticas de desempenho dos jogadores.
+Este projeto utiliza o csv para analisar partidas de xadrez. O objetivo é realizar a limpeza de dados e calcular estatísticas de desempenho dos jogadores.
 
 ## Objetivos
 - **Limpeza de Dados:** Remover jogos incompletos ou com erros de registro.
